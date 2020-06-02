@@ -2,6 +2,6 @@ Thank you for visiting my Github repo. Please take time to explore and feel free
 
 nmosch@gmail.com
 
-[title](https://nmosch.github.io)
+[Portfolio](https://nmosch.github.io)
 
 You can find my Resume in ./documents/Updated_Resume.pdf
