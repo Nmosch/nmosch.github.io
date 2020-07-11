@@ -871,3 +871,7 @@ h1, h2, h3, h4, h5,
   @media (max-width: 991.98px) {
     .service {
       padding: 2rem; } }
+
+#tech {
+  font-weight: bold;
+}
